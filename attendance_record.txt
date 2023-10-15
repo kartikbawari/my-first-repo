@@ -1,0 +1,5 @@
+Name     Course     Rollno    Status
+Kartik   BCA        1         P
+Jai      B.Tech     2         P  
+
+    
